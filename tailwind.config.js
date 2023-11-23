@@ -1,3 +1,4 @@
+/*added tailwind typography to plugins to be able to use prose classes to add styling to the HTML rendered from markdown files.*/
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

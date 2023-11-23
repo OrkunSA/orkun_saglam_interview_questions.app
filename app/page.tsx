@@ -1,5 +1,6 @@
 import Questions from './components/Questions';
 
+//removed unnecessary elements and added content and styling and imported Questions component
 export default function Home() {
   return (
     <main className="px-6 mx-auto">

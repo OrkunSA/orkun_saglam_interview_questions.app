@@ -5,7 +5,7 @@ export const metadata = {
   title: 'Orkun Saglam Questions and Answers',
   description: 'Created by Orkun Saglam',
 };
-
+//added tailwind class to the body and rendered my Navbar and MyProfilePic components and updated the metadata.
 export default function RootLayout({
   children,
 }: {

@@ -1,3 +1,4 @@
+/*Created the component for my profile picture, imported next image to render my profile pic and added syling and some attributes for the image */
 import Image from 'next/image';
 
 export default function MyProfilePic() {

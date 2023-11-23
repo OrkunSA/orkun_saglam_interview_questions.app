@@ -1,3 +1,4 @@
+/*Created Navbar component by utilizing Link from Next.js. Added classes and styling and react icons for my social accounts.   */
 import Link from 'next/link';
 import { FaMedium, FaGithub, FaLinkedin } from 'react-icons/fa';
 export default function Navbar() {
