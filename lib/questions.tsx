@@ -35,7 +35,7 @@ export function getSortedQuestionsData() {
     // Combined the data with the id
     return question;
   });
-  // Sorted posts by numerical order
+  // Sorted questions by numerical order
   return allQuestionsData.sort((a, b) => (a.id < b.id ? -1 : 1));
 }
 
